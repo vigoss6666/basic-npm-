@@ -17,6 +17,7 @@
   },
    "dependencies": {
     "express": "expressjs/express",
+    "mongoose":"Automattic/mongoose"
   }, 
   "homepage": "https://github.com/vigoss6666/basic-npm-#readme"
 }
